@@ -1,0 +1,16 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: #f4f1eb;
+    color: #333;
+}
+.hero {
+    background: url('https://source.unsplash.com/1600x900/?travel,nature') no-repeat center/cover;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 36px;
+    font-weight: 700;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
